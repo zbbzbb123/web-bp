@@ -8,10 +8,16 @@ demo/
 4月4日/
 *.LRF
 
-# Large local videos; keep the H5 runtime asset only
+# All local videos stay out of git
 *.mp4
 *.MP4
 *.mov
 *.MOV
-!demo_web.mp4
-
+*.m4v
+*.M4V
+*.avi
+*.AVI
+*.mkv
+*.MKV
+*.webm
+*.WEBM
