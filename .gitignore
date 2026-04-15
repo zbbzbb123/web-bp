@@ -1,0 +1,17 @@
+.DS_Store
+.claude/
+node_modules/
+npm-debug.log*
+
+# Raw footage and local media dumps
+demo/
+4月4日/
+*.LRF
+
+# Large local videos; keep the H5 runtime asset only
+*.mp4
+*.MP4
+*.mov
+*.MOV
+!demo_web.mp4
+
